@@ -3,7 +3,7 @@
 I am a **Computer Science and Engineering** student currently in my **3rd Year, 1st Semester** at the **Bangladesh Army University of Science and Technology (BAUST), Saidpur**. I enjoy building software, solving problems, and exploring new technologies.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on a android app.
+- 🔭 I’m currently working on an android app.
 - 🌱 I’m currently learning **Advanced Java** and **Microprocessor Interfacing**.
 - ⚡ Fun fact: I enjoy cycling and competitive gaming when I'm not coding.
 
