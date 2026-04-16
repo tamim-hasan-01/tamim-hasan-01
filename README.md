@@ -10,7 +10,7 @@ I am a **Computer Science and Engineering** student currently in my **3rd Year, 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Tamim's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Md. Tamim Hasan Siam&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Tamim's GitHub Stats" />
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -47,16 +47,16 @@ I am a **Computer Science and Engineering** student currently in my **3rd Year, 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your_username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim-hasan-01 &layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md. Tamim Hasan Siam&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your_username&bg_color=1a1b27&color=73c1d9&line=d498da&point=79dac8&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamim-hasan-01 &bg_color=1a1b27&color=73c1d9&line=d498da&point=79dac8&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
